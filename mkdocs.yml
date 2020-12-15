@@ -1,0 +1,9 @@
+site_name: pyk3ui Documentation
+repo_url: https://github.com/michaellavery/pyk3ui/
+copyright: 2020 - Jakub Wlodek
+nav:
+  - Home: index.md
+  - Installation: install.md
+  - Basic Usage: usage.md
+  - About: about.md
+theme: readthedocs
